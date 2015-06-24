@@ -1,1 +1,1 @@
-# arabesque-site
+# Сайт для коммуникационной группы Arabesque
